@@ -19,3 +19,19 @@ In fact, some FP concepts are implemented in OOP approach, like a specific monad
 ### Does function programming have no if...else...?
 
 ### Does function programming throw errors?
+
+### What is monad?
+
+### Why functional programming hasn't been widely adopted into practice commercially?
+
+In theory, FP should be adopted as a common practice in the industry due to its many good benefits, and I heard many compliments about it, whereas in reality I don't see it's been adopted widely, at least it's not a leading main stream programming style in large commercial projects.
+
+I guess there are a few reasons behind the scenes, but I could be wrong.
+
+- No star projects endorse it.
+
+Till now, as far as I am aware, apart from Angular adopts RxJS (functional reactive programming) as a major method to handle asynchronous operations, very few large projects use FP as a major programming paradigm. People always look for great role models and follow the success pattern, especially in commercial area, a battle-tested solution can appeal to stakeholders to invest in. I haven't found any star commercial projects use FP in large scale.
+
+- No standard libraries.
+
+- Steep learning curve.
